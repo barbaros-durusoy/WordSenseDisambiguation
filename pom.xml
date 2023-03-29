@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.starlangsoftware</groupId>
-    <artifactId>WordSenseDisambiguation</artifactId>
-    <version>1.0.4</version>
+    <artifactId>WordSenseDisambiguationCustom</artifactId>
+    <version>1.0.4.custom</version>
     <packaging>jar</packaging>
 
     <name>NlpToolkit.WordSenseDisambiguation</name>
